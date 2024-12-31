@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hard Surface Crate
+* source:	https://sketchfab.com/3d-models/hard-surface-crate-3e120c39d7b042b488e9bf54ef7b344f
+* author:	x2w-soda (https://sketchfab.com/x2w-soda)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hard Surface Crate" (https://sketchfab.com/3d-models/hard-surface-crate-3e120c39d7b042b488e9bf54ef7b344f) by x2w-soda (https://sketchfab.com/x2w-soda) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
